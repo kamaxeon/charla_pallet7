@@ -16,4 +16,4 @@ class Calculator(object):
 
     @staticmethod
     def division(a, b):
-        return a / float(b)
+        return a / b
